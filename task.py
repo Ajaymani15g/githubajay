@@ -1,1 +1,6 @@
-print("hello world")
+print("hello ")
+
+def add(a,b):
+    c=a+b
+    print(c)
+add(5,2)
